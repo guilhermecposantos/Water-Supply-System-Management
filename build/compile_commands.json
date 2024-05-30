@@ -1,0 +1,56 @@
+[
+{
+  "directory": "C:/Users/Guilherme/Ambiente de Trabalho/da_project1/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/Water_Supply_Management.dir/includes_CXX.rsp -g -o CMakeFiles/Water_Supply_Management.dir/src/Reservoir.cpp.obj -c \"C:/Users/Guilherme/Ambiente de Trabalho/da_project1/src/Reservoir.cpp\"",
+  "file": "C:/Users/Guilherme/Ambiente de Trabalho/da_project1/src/Reservoir.cpp",
+  "output": "CMakeFiles/Water_Supply_Management.dir/src/Reservoir.cpp.obj"
+},
+{
+  "directory": "C:/Users/Guilherme/Ambiente de Trabalho/da_project1/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/Water_Supply_Management.dir/includes_CXX.rsp -g -o CMakeFiles/Water_Supply_Management.dir/src/Station.cpp.obj -c \"C:/Users/Guilherme/Ambiente de Trabalho/da_project1/src/Station.cpp\"",
+  "file": "C:/Users/Guilherme/Ambiente de Trabalho/da_project1/src/Station.cpp",
+  "output": "CMakeFiles/Water_Supply_Management.dir/src/Station.cpp.obj"
+},
+{
+  "directory": "C:/Users/Guilherme/Ambiente de Trabalho/da_project1/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/Water_Supply_Management.dir/includes_CXX.rsp -g -o CMakeFiles/Water_Supply_Management.dir/src/City.cpp.obj -c \"C:/Users/Guilherme/Ambiente de Trabalho/da_project1/src/City.cpp\"",
+  "file": "C:/Users/Guilherme/Ambiente de Trabalho/da_project1/src/City.cpp",
+  "output": "CMakeFiles/Water_Supply_Management.dir/src/City.cpp.obj"
+},
+{
+  "directory": "C:/Users/Guilherme/Ambiente de Trabalho/da_project1/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/Water_Supply_Management.dir/includes_CXX.rsp -g -o CMakeFiles/Water_Supply_Management.dir/src/Pipe.cpp.obj -c \"C:/Users/Guilherme/Ambiente de Trabalho/da_project1/src/Pipe.cpp\"",
+  "file": "C:/Users/Guilherme/Ambiente de Trabalho/da_project1/src/Pipe.cpp",
+  "output": "CMakeFiles/Water_Supply_Management.dir/src/Pipe.cpp.obj"
+},
+{
+  "directory": "C:/Users/Guilherme/Ambiente de Trabalho/da_project1/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/Water_Supply_Management.dir/includes_CXX.rsp -g -o CMakeFiles/Water_Supply_Management.dir/src/parse.cpp.obj -c \"C:/Users/Guilherme/Ambiente de Trabalho/da_project1/src/parse.cpp\"",
+  "file": "C:/Users/Guilherme/Ambiente de Trabalho/da_project1/src/parse.cpp",
+  "output": "CMakeFiles/Water_Supply_Management.dir/src/parse.cpp.obj"
+},
+{
+  "directory": "C:/Users/Guilherme/Ambiente de Trabalho/da_project1/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/Water_Supply_Management.dir/includes_CXX.rsp -g -o CMakeFiles/Water_Supply_Management.dir/src/graph.cpp.obj -c \"C:/Users/Guilherme/Ambiente de Trabalho/da_project1/src/graph.cpp\"",
+  "file": "C:/Users/Guilherme/Ambiente de Trabalho/da_project1/src/graph.cpp",
+  "output": "CMakeFiles/Water_Supply_Management.dir/src/graph.cpp.obj"
+},
+{
+  "directory": "C:/Users/Guilherme/Ambiente de Trabalho/da_project1/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/Water_Supply_Management.dir/includes_CXX.rsp -g -o CMakeFiles/Water_Supply_Management.dir/src/main.cpp.obj -c \"C:/Users/Guilherme/Ambiente de Trabalho/da_project1/src/main.cpp\"",
+  "file": "C:/Users/Guilherme/Ambiente de Trabalho/da_project1/src/main.cpp",
+  "output": "CMakeFiles/Water_Supply_Management.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Guilherme/Ambiente de Trabalho/da_project1/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/Water_Supply_Management.dir/includes_CXX.rsp -g -o CMakeFiles/Water_Supply_Management.dir/src/menu.cpp.obj -c \"C:/Users/Guilherme/Ambiente de Trabalho/da_project1/src/menu.cpp\"",
+  "file": "C:/Users/Guilherme/Ambiente de Trabalho/da_project1/src/menu.cpp",
+  "output": "CMakeFiles/Water_Supply_Management.dir/src/menu.cpp.obj"
+},
+{
+  "directory": "C:/Users/Guilherme/Ambiente de Trabalho/da_project1/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/Water_Supply_Management.dir/includes_CXX.rsp -g -o CMakeFiles/Water_Supply_Management.dir/src/Actions.cpp.obj -c \"C:/Users/Guilherme/Ambiente de Trabalho/da_project1/src/Actions.cpp\"",
+  "file": "C:/Users/Guilherme/Ambiente de Trabalho/da_project1/src/Actions.cpp",
+  "output": "CMakeFiles/Water_Supply_Management.dir/src/Actions.cpp.obj"
+}
+]
